@@ -1,2 +1,2 @@
-# JavaScript Review Project bu write_you_full_name
+# JavaScript Review Project by JOHN LOUI BONBON
 This project is a review of JavaScript concepts, from beginner to advanved.
